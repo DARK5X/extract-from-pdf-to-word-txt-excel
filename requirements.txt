@@ -1,0 +1,25 @@
+for txt  extraction 
+*Tkinter
+*tkFileDialog
+*pdfminer
+*sys
+*os
+--------------------------
+for word extraction 
+*Tkinter
+*docx
+*tkFileDialog
+*pdfminer
+*sys
+*os
+
+--------------------------
+for excel extraction 
+*Tkinter
+*xlsxwriter
+*pandas 
+*openpyxl
+*tkFileDialog
+*pdfminer
+*sys
+*os
